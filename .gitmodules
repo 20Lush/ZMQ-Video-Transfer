@@ -1,0 +1,9 @@
+[submodule "LushMQ"]
+	path = LushMQ
+	url = git@github.com:20Lush/LushMQ.git
+[submodule "example-lushMQ-subscriber"]
+	path = example-lushMQ-subscriber
+	url = git@github.com:20Lush/example-lushMQ-subscriber.git
+[submodule "example-lushMQ-publisher"]
+	path = example-lushMQ-publisher
+	url = git@github.com:20Lush/example-lushMQ-publisher.git
